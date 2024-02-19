@@ -6,7 +6,7 @@ Certifique-se de ter as seguintes dependências instaladas:
 
 - Node.js
 - MySQL
-- Pacotes NPM: `express`, `mysql2`.
+- Pacotes NPM: `express`, `mysql2`, `jsonwebtoken`.
 
 ## Configuração do Banco de Dados
 1. Crie o banco de dados:
